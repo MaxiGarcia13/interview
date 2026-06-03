@@ -1,0 +1,22 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MaxiGarcia13/interview#readme",
+  "bugs": {
+    "url": "https://github.com/MaxiGarcia13/interview/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxiGarcia13/interview.git"
+  },
+  "license": "ISC",
+  "author": "Maximiliano Garcia Mortigliengo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
